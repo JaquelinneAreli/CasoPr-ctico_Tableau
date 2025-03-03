@@ -1,7 +1,7 @@
 # CasoPractico_Tableau
 En este proyecto se presenta un dashboard que permite analizar puntos clave de los datos recabados por el departamento de Recursos Humanos de la compañía SRL, a través de Tableau.
 
-## Cotexto
+## Contexto
 Esta base de datos contiene información personal y detallada de los empleados de la compañía SRL, los cuales comprenden desde género, desempeño, contratación, hasta la especificación de las desinculaciones y las características demográficas de cada empleado. Estos datos son determinantes para el análisis en el departamento de Recursos Humanos, por lo que la identificación de puntos claves específicos es crítico para la toma de deciones.
 
 ### Objetivos específicos 
@@ -9,7 +9,7 @@ Esta base de datos contiene información personal y detallada de los empleados d
 - E
 - R
 
-#Resultados
+### Resultados
 De manera general, la empresa tiene 311 empleados registrados, de los cuales 207 se encuentran en estado activo y distribuidos en 6 distintos departamentos; donde el 56.59% son mujeres y 43.41% son hombres, y el salario promedio ronda los $70,694 dólares.
 
 El salario promedio de los diferentes departamentos es muy variable, siendo el personal de Executive Office quienes perciben una mayor cantidad ingresos (con $250,000 dólares), seguido de IT/IS ($99,007 para hombres y $94,593 para mujeres), después por Software Engineering ($92,689 H y $96,906 M), Admin Offices ($73,523 H y $70,926 M) y Sales ($66,291 H y $72,017 M), mientras que el departamento de Production resalta por poseer el menor salario promedio (con $60,459 dólares para hombres y $59,620 para mujeres).
