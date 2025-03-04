@@ -23,4 +23,6 @@ Un panorama más detallado se puede visualizar al filtrar los datos por departam
 
 ![image](https://github.com/user-attachments/assets/559500e8-c622-4c08-8d50-60770ef751a4)
 
+El enlace para acceder a la visualización completa en Tableau Public se encuentra a continuación:
+https://public.tableau.com/views/Casopractico_JAPH/Dashboard?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
